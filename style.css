@@ -1,43 +1,7 @@
-#banner {
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-table,
-th,
-td {
-  border: 3px solid black;
-}
-
-table {
-  width: 100%;
-}
-
-#FDR_site_link {
-  text-align: center;
-}
-
-#FDR_read_link {
-  text-align: center;
-}
-
-#FDR_read_link a {
-  color: white;
-  background: rgb(200, 0, 0);
-  font-size: 22px;
-  font-weight: normal;
-}
-
-#p1 {
-  text-size: 18px;
-  font-weight: normal;
-}
-
-#img1 {
-  width: 80%;
-}
-#img2 {
-  width: 50%;
-}
-
-#img3 {
-  background: rgb(155, 0, 0);
+canvas {
+  display: block;
 }
